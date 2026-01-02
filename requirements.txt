@@ -1,0 +1,10 @@
+tensorflow>=2.15.0
+flask==3.0.0
+python-socketio==5.10.0
+eventlet==0.33.3
+pillow
+opencv-python
+numpy
+matplotlib
+scikit-learn
+pandas
